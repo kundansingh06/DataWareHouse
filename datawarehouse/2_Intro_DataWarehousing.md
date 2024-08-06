@@ -18,6 +18,17 @@ Data warehouses follow a set of rules proposed by Bill Inmon in 1990. These rule
    As data is imported into the data warehouse, it is often restructured and reorganized to make it more useful for analysis. This
    process helps to optimize the data for querying and reporting, making it easier for users to extract valuable insights from the
    data.
+```
+Data warehouse examples:-
+Amazon Redshift
+Google BigQuery
+Azure SQL DW
+Azure Synapse
+IBM Db2
+Oracle Autonomous
+Snowflake
+Teradata
+```
 
 # Why do we need a Data Warehouse?
 Primary reasons for investing time, resources, and money into building a data warehouse:
