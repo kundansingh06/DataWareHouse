@@ -20,4 +20,17 @@ It could have been different e.g. departmentId or departmentID t etc.
 For example in Employee and Department relationship, Department is parent table because dept_id is primary key there and Employee is child table because dept_id is a foreign key in this table.
 
 
+```
+CREATE TABLE Customer (
+cust_id INT NOT NULL, 
+cust_name VARCHAR(256),                      
+PRIMARY KEY (cust_id)
+)
 
+CREATE TABLE ORDER (
+order_id INT NOT NULL,
+amount INT NOT NULL,
+cust_id INT,
+FOREIGN KEY (cust_id) REFERENCES Customer(cust_id) ON DELETE CASCADE
+) 
+```
