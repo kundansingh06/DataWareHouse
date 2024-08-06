@@ -17,7 +17,7 @@ we have used same name in Employee table to create foreign key.
 It could have been different e.g. departmentId or departmentID t etc.
 
 * Table on which a column is declared as a primary key is known as parent table in the relationship and foreign key table is known as child table in a relationship. 
-For example in Employee and Department relationship, Department is parent table because dept_id is primary key there and Employee is child table because dept_id is a foreign key in this table.
+For example in Customer and ORDER relationship, Customer is parent table because cust_id is primary key there and ORDER is child table because cust_id is a foreign key in this table.
 
 
 ```
