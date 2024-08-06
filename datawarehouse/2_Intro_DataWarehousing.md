@@ -25,7 +25,8 @@ Primary reasons for investing time, resources, and money into building a data wa
    relying on experience, intuition, or hunches.
 2. One-stop shopping: A data warehouse consolidates data from various transactional and operational applications into a
    single location, making it easier to access and analyze the data.
-   Data warehouses provide a comprehensive view of an organization's past, present, and potential future/forecast data. They
-   also offer insights into unknown patterns or trends through advanced analytics and Business Intelligence (BI). In conclusion,
-   Business Intelligence and data warehousing are closely related disciplines that provide immense value to organizations by
-   facilitating data-driven decision-making and offering a centralized data repository for analysis.
+
+Data warehouses provide a comprehensive view of an organization's past, present, and potential future/forecast data. They
+also offer insights into unknown patterns or trends through advanced analytics and Business Intelligence (BI). In conclusion,
+Business Intelligence and data warehousing are closely related disciplines that provide immense value to organizations by
+facilitating data-driven decision-making and offering a centralized data repository for analysis.
