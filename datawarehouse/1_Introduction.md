@@ -8,6 +8,13 @@ A Database is a collection of related data/information:
 organized in a way that data can be easily accessed, managed, and updated.
 captures information about an organization or organizational process
 supports the enterprise by continually updating the database
+
+Database examples:-
+Relational databases: Oracle, MySQL, Microsoft SQL Server, and PostgreSQL
+Document databases:   MongoDB and CouchDB
+Key-value databases:  Redis and DynamoDB
+Wide-column stores:   Cassandra and HBase
+Graph databases:      Neo4j and Amazon Neptune
 ```
 In database management, there are two main types of databases: operational databases and analytical databases.
 Operational databases are primarily used in online transactional processing (OLTP) scenarios, where there is a need to
