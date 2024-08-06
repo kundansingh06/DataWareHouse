@@ -34,7 +34,7 @@ FOREIGN KEY (cust_id) REFERENCES Customer(cust_id) ON DELETE CASCADE
 ```
 
 By using foreign key constraints, we can introduce referential integrity in multiple table relationship in SQL.
-#Referential integrity guarantees data integrity
+# Referential integrity guarantees data integrity
 
 By using foreign key constraints, we can introduce referential integrity in multiple table relationship in SQL. 
 Referential integrity guarantees data integrity, see benefits of Referential Integrity in SQL to know more.
