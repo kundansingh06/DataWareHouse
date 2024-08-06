@@ -23,9 +23,7 @@ processing needs and require different design methodologies.
 ```
                 | OLTP          | OLAP          |
                 | ------------- | ------------- |
-|Characteristics| Handles a large number of small
-transactions with simple queries  | Handles large volumes of data with
-complex queries  |
+|Characteristics| Handles a large number of small transactions with simple queries  | Handles large volumes of data with complex queries  |
 
 ```
 
