@@ -21,12 +21,7 @@ Although analytical databases often use data from operational databases as their
 processing needs and require different design methodologies.
 
 ```
-                | OLTP          | OLAP          |
-                | ------------- | ------------- |
-|Characteristics| Handles a large number of small
-transactions with simple queries  | Handles large volumes of data with
-complex queries  |
-
+OLTP VS OLAP
 ```
 
 
